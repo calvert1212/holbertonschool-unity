@@ -1,0 +1,155 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.2251; Version 2009; 64bit' Language: 'en' Physical Memory: 16344 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Chadmeister/Desktop/holbertonschool-unity/0x00-unity-animation
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53158
+Successfully changed project path to: C:/Users/Chadmeister/Desktop/holbertonschool-unity/0x00-unity-animation
+C:/Users/Chadmeister/Desktop/holbertonschool-unity/0x00-unity-animation
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.16 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Chadmeister/Desktop/holbertonschool-unity/0x00-unity-animation/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon (TM) RX 480 Graphics (ID=0x67df)
+    Vendor:   
+    VRAM:     8170 MB
+    Driver:   31.0.12027.7000
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56964
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002845 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.386 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000936 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.908 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1129 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.7 MB.
+System memory in use after: 57.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1572.
+Total: 1.992600 ms (FindLiveObjects: 0.289800 ms CreateObjectMapping: 0.090300 ms MarkObjects: 1.496100 ms  DeleteObjects: 0.115200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/4K_Space_Skyboxes/Demo/Scripts/Camera_control.cs
+  artifactKey: Guid(80a8058f929ee6b4f93b249660d68cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4K_Space_Skyboxes/Demo/Scripts/Camera_control.cs using Guid(80a8058f929ee6b4f93b249660d68cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e23ebf882503bdf942f464ccb100d15') in 0.068166 seconds
+  Import took 0.070698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.992979 seconds.
+  path: Assets/4K_Space_Skyboxes/Demo/Scripts/Skybox_rotator.cs
+  artifactKey: Guid(71ed22f106044b34ab2816a437e00498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4K_Space_Skyboxes/Demo/Scripts/Skybox_rotator.cs using Guid(71ed22f106044b34ab2816a437e00498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57033d14baf7264b8c5031d3dbc61f73') in 0.015590 seconds
+  Import took 0.026752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.153877 seconds.
+  path: Assets/4K_Space_Skyboxes/Materials
+  artifactKey: Guid(fa4c8e64c33a6e54ba2a928b5c167004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4K_Space_Skyboxes/Materials using Guid(fa4c8e64c33a6e54ba2a928b5c167004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a18544d64de3c37ef04c85f2aa4cd3') in 0.009698 seconds
+  Import took 0.012791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.612806 seconds.
+  path: Assets/4K_Space_Skyboxes/Demo
+  artifactKey: Guid(19e9f48ee75b94148a830307fed469df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4K_Space_Skyboxes/Demo using Guid(19e9f48ee75b94148a830307fed469df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef2a5eae79de6d3a7fe3d94e16a24e59') in 0.009307 seconds
+  Import took 0.011895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19255.054271 seconds.
+  path: Assets/4K_Space_Skyboxes/Animations
+  artifactKey: Guid(ea5c135b0f3fe12448b8b0d21d1a9267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4K_Space_Skyboxes/Animations using Guid(ea5c135b0f3fe12448b8b0d21d1a9267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4556d7d5d555183bf38d07b6dbca2a86') in 0.010626 seconds
+  Import took 0.047955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.763619 seconds.
+  path: Assets/4K_Space_Skyboxes
+  artifactKey: Guid(21c719f10ecc1324091ff719b8910e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4K_Space_Skyboxes using Guid(21c719f10ecc1324091ff719b8910e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e0cb95ea23897b52d9f220b8897d62') in 0.013825 seconds
+  Import took 0.017201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.909582 seconds.
+  path: Assets/4K_Space_Skyboxes/Animators
+  artifactKey: Guid(676b7373471dbc84186108606f26f3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4K_Space_Skyboxes/Animators using Guid(676b7373471dbc84186108606f26f3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92796e6c878125e0a6076e8c72ba2360') in 0.009963 seconds
+  Import took 0.013223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.217612 seconds.
+  path: Assets/4K_Space_Skyboxes/Animations/CutsceneCamera.prefab
+  artifactKey: Guid(f129a0f9388441c409f9528099166137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4K_Space_Skyboxes/Animations/CutsceneCamera.prefab using Guid(f129a0f9388441c409f9528099166137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0b10fa97f6f59c10b838976c4bb601') in 0.121645 seconds
+  Import took 0.124504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.891655 seconds.
+  path: Assets/4K_Space_Skyboxes/Animators/CutsceneCamera.prefab
+  artifactKey: Guid(7ecc563398da64a47b4a6ce0e35914c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4K_Space_Skyboxes/Animators/CutsceneCamera.prefab using Guid(7ecc563398da64a47b4a6ce0e35914c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f3be5692cf820f3f19c3e69c07cf9c') in 0.007912 seconds
+  Import took 0.010633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003187 seconds.
+  path: Assets/4K_Space_Skyboxes/Animators/CutsceneCamera.prefab
+  artifactKey: Guid(7ecc563398da64a47b4a6ce0e35914c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4K_Space_Skyboxes/Animators/CutsceneCamera.prefab using Guid(7ecc563398da64a47b4a6ce0e35914c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f3be5692cf820f3f19c3e69c07cf9c') in 0.007245 seconds
+  Import took 0.009623 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
